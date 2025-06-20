@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: co_abonos_dobles
+    description: "Tabla descripción."
+    columns:
+      - name: year
+        description: "Año particion"
+      - name: month
+        description: "Mes particion"
+      - name: day
+        description: "Día particion"
