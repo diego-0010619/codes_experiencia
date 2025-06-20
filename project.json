@@ -1,0 +1,8 @@
+{
+  "name": "product_logs_consultas_agentes",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "src/product_logs_consultas_agentes",
+  "targets": {},
+  "tags": []
+}
